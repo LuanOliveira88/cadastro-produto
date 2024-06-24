@@ -1,6 +1,3 @@
-# Prova Experimental | Oak Tecnologia
-# Candidato: Luan de Oliveira Azevedo
-
 from dataclasses import dataclass
 import re
 
